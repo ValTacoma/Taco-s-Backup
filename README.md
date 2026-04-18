@@ -1,2 +1,2 @@
 # SFS-BP-Backup
-Lucy SFS BP Backup
+**Automated SFS Backup System**
